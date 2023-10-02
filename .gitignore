@@ -1,0 +1,19 @@
+.project
+.classpath
+.DS_Store
+__pycache__/
+modules/README.md
+requests.log
+.idea/
+
+# Compiled files
+*.tfstate
+*.tfstate.backup
+
+# Module directory
+.terraform/
+.terraform.lock.hcl
+
+# Plans
+*.plan
+
